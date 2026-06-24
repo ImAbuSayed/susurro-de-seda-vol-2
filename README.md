@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-seda-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Susurro de seda, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-seda-vol-2/) |
+| **Get License** | [Commercial Licensing for Susurro de seda, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-seda-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la calle respira tu nombre
+> Dime si sientes la vibra que nos corresponde
+> Te busco en la sombra, perfume de seda y alcohol
+> Tú eres la musa que enciende mi fuego y control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
